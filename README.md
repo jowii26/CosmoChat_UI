@@ -1,7 +1,7 @@
 # CosmoChat UI
 
 ## Description
-This is an app where the user named Andrew interacts with an openAI powered career advice assistant name ReX.
+CosmoChat UI is a state-of-the-art chat interface designed to enhance online communication through a seamless and interactive user experience. Built using advanced frontend technologies such as React and Redux, it incorporates OpenAI's GPT technology to offer intelligent, automated responses, enriching user interaction. Key features include real-time message delivery, customizable user themes, and a responsive layout. By integrating with OpenAI, CosmoChat UI aims to transform standard messaging into dynamic conversations, ensuring messages are not just exchanged but are also engaging and insightful.
 
 ## Tools used
 React.JS, Material UI, Framer Motion, Axios, Open AI. 
